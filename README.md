@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chokli
 - 👀 I’m interested in potatoes
 - 🌱 I’m currently learning Fares
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Padova Grand Tour
 - 📫 How to reach me...
 
 <!---
